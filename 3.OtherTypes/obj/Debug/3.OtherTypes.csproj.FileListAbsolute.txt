@@ -1,0 +1,6 @@
+F:\VisualStudio\C#\3.OtherTypes\3.OtherTypes\bin\Debug\3.OtherTypes.exe.config
+F:\VisualStudio\C#\3.OtherTypes\3.OtherTypes\bin\Debug\3.OtherTypes.exe
+F:\VisualStudio\C#\3.OtherTypes\3.OtherTypes\bin\Debug\3.OtherTypes.pdb
+F:\VisualStudio\C#\3.OtherTypes\3.OtherTypes\obj\Debug\3.OtherTypes.csprojResolveAssemblyReference.cache
+F:\VisualStudio\C#\3.OtherTypes\3.OtherTypes\obj\Debug\3.OtherTypes.exe
+F:\VisualStudio\C#\3.OtherTypes\3.OtherTypes\obj\Debug\3.OtherTypes.pdb
